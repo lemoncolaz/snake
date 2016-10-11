@@ -1,0 +1,3 @@
+[submodule "dolly"]
+	path = dolly
+	url = git@gitlab.58corp.com:zhangchuang02/Dolly_platform.git
